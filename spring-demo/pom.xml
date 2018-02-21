@@ -9,7 +9,7 @@
 
 	<packaging>war</packaging>
 
-	<name>Spring</name>
+	<name>Spring Demo</name>
 	<description>Spring Demo Project</description>
 
 	<parent>
